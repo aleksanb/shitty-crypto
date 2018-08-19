@@ -1,0 +1,7 @@
+[package]
+name = "shitty-crypto"
+version = "0.1.0"
+authors = ["Aleksander Vognild Burkow <aleksanderburkow@gmail.com>"]
+
+[dependencies]
+structopt = "0.2"
